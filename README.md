@@ -1,3 +1,4 @@
+Hey Belgrade-outlaw, I can't find this anywhere? (/data/data/com.scribd.app.reader0/shared_prefs/)
 # SCRIMTEC - SCRIbd MPUB to EPUB Converter
 ![Screenshot](image.png)
 
